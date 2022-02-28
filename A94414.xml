@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Excellency, the Lord General Cromwel: And all the honest officers and souldiers in the Army, for the Common-wealth of England. The humble remonstrance of many thousands in and about the City of London, on the behalf of all the free-commoners of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94414</idno>
+            <idno type="STC">Wing T1354</idno>
+            <idno type="STC">Thomason E692_4</idno>
+            <idno type="STC">ESTC R203950</idno>
+            <idno type="EEBO-CITATION">99863715</idno>
+            <idno type="PROQUEST">99863715</idno>
+            <idno type="VID">115926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115926)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E692[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Excellency, the Lord General Cromwel: And all the honest officers and souldiers in the Army, for the Common-wealth of England. The humble remonstrance of many thousands in and about the City of London, on the behalf of all the free-commoners of England.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>Pendred, William.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3v: William Pendred [and 10 others].</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 21 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:115926:1" rendition="simple:additions"/>
+            <head>To His EXCELLENCY, The LORD GENERAL CROMWEL: And all the honeſt Officers and Souldiers in the Army, for the Common-vv*ealth of ENGLAND.</head>
+            <head type="sub">The Humble Remonſtrance of many Thouſands in and about the City of London, on the behalf of all the Free-Commoners of England.</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the 22 of <hi>March</hi> 1648, the Parliament declared, That they were truſted by the people, for the Common good, and to procure the well-being of thoſe whom hey ſerve; and to remove Oppreſſion and Arbitrary power, and all oppoſitions to the peace and freedome of this Nation; and that they intend the common Intereſt of thoſe whom they ſerve, more then their own particulars: And they then promiſed the due reformation of the Law, for the taking away of corruption and abuſes, delays, vexations, and unneceſſary travel and expences, and whatſoever ſhould be found really burthenſome to the people, that e<g ref="char:EOLhyphen"/>vil might be puniſhed, and the good rewarded, and the people be eaſed in their burthens and Taxes, and the debts of the Common wealth be juſtly ſatisfied. But alas, with grieved hearts we have long expected ſome fruit of their promiſes, and that multitude of days ſhould utter knowledge: Yet all in vain, inſomuch that we can no longer forbear, but ſhew our grievances for they are many and intolerable. My Lord, there was a time, when your Excellency and our unparalel'd Army was in a low condition, and in your ſtraights, you affirmed that you called upon God, and he heard you and delivered you in your diſtreſs; ſure God was pleaſed with you in that for he gave your enemies into your hands, and ſetled the ſoles of your feet in peace gave you large poſſeſſi<g ref="char:EOLhyphen"/>ons, houſes that you built not: was all this that you onely might live in peace, eaſe and reſt, and ſay you have married Wives, have Farms,
+<pb n="2" facs="tcp:115926:2"/>Parks, Mannors, and Kingly houſes to ſee; and forget the vows you then made? ſurely no. Are the people free? is perfect liberty wrought for them? or are your vows quite forgotten? Is not the ſafety of the peo<g ref="char:EOLhyphen"/>ple the ſupreme Law? Nay, are not you the peoples Army, and have they not paid you? Are your promiſes yet performed? Why are you ſo remiſs in the work of the Lord? why do the people yet complain? Is not juſtice as neceſſary now, as when the Parliament began? Our eyes have been upon you, but our hope is in God; and though we be yet clouded, and in the dark, yet deliverance will come, and we ſhall not be deceived.</p>
+            <p>And though the ſons of <hi>Zerviah</hi> have ſeemed too ſtrong for you; yet if your Excellency now appear, all the honeſt members, which have not bowed their knees to <hi>Baal,</hi> will to a man ſecond you, and make good every ſillable of that Declaration, and revive the ſelf deny<g ref="char:EOLhyphen"/>ing Ordinance, and ſcorn to ſit with a company of mercenary Lawyers, who poyſon the counſels of the Parliament, and turn juſtice and judg<g ref="char:EOLhyphen"/>ment to gall and wormwood, meerly to inrich themſelves by the ruine of the people. Then your Excellency and thoſe honeſt Members may forthwith paſs an Act, to authorize the Juſtices of peace, to keep a Court in their ſeveral Counties, twice a week, in the moſt convenient place in each County, to hear and determine all matters of debt, titles of lands, and other civill differences, the ſame day they be brought before them, and put the people to no more charge, but their attendance, accor<g ref="char:EOLhyphen"/>ding to the practiſe of the Court of Requeſts, London, ſitting in Guild-Hall, by vertue of an Act of Parliament, made in the third year of King <hi>Iames,</hi> and the 25 Chapter.</p>
+            <p>Then your Excellency and thoſe honeſt Members may forthwith paſs the annexed Act, to authorize Commiſſioners of known fidelity, for the ſpeedy examination and redreſs of all the peoples grievances; though the ſeveral Committees appointed by Parliament, have done little or nothing therein. And then we ſhall ſee an Act to ſettle an An<g ref="char:EOLhyphen"/>nual equal Repreſentative, and Indentures drawn between the Repre<g ref="char:EOLhyphen"/>ſentors, and the Repreſentative Counties, that we may no longer truſt in man; but have it known to the world, that the people are the Legiſ<g ref="char:EOLhyphen"/>lative power, and that all that are entruſted by them, muſt act for them, and be accomptable to them: Surely then may there be found men of ſuch pure principles, that will not forget the ſelf-denying Ordinance, nor be ſeduced by the Clergy to act in Spirituals, when their Commiſ<g ref="char:EOLhyphen"/>ſion is for Temporals. Then ſhall thoſe faithfull perſons who hazard<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:115926:2"/>all for the Parliament, and many of them lent more then their whole Eſtates, and now live in priſon, nay, ſtarve for want of it; not to be put to uncover Cathedrals, and ranſack the Monuments of the dead; but be honeſtly paid with thanks and requitals. Then ſhould not the Publick Faith be out-pawned, and ſo little care taken to redeem it, whileſt Millions of Treaſure hath been conveyed beyond the ſeas.</p>
+            <p>Then ſhould there be a new little Book of onely uſefull Statutes, portable, that thoſe that ſhould keep them may know them; and not a Voluminous Idol, the ſtudie of Lawyers their whole life time, to teach the people at great coſt, and with the hazard of their lives. Then ſhall juſtice be done at the charge of the State, as of old, the poor fear no bribes, and the peoples whole inheritance not ſpent every hundred year, or leſs, in tedious and uſeleſs ſuits in Law, without accompt or puniſhment. Then ſhould not poor Souldiers Debenters be ſould for a Twentieth part, and the benefit of the reft redound to their enemies. Nor the honeſt Souldier pay twice for his quarter, whileſt your bloudy enemies are forgiven plunder and outrages. Was not this the price of their bloud? and wo be to him that erecteth a City by bloud, <hi>&amp;c.</hi> Nor the honeſt Souldier that would not do all things, laid aſide without place or pay, and ſtarve for want thereof; whileſt unworthy perſons are imployed both by ſea and land, in very great truſt, to the loſing the Honor of the Nation, gotten by the bloud and treaſure of thoſe who are now laid aſide. Nor ſhould the honeſt ſufferer for the Parlia<g ref="char:EOLhyphen"/>ment be left without all proviſion, as if they had no bodies promiſe for it. Nor ſhould there be a five pound Act, a meer deceit, as it is now u<g ref="char:EOLhyphen"/>ſed, while men of Eſtates lie in the upper Bench, and other priſons, and cheat the people, and their Lands unſold. Nor the poor diſtreſſed Proteſtants of Ireland, that loſt their Eſtates, and fled hither for their lives, ſtarve here, and no account rendred of the moneys that was col<g ref="char:EOLhyphen"/>lected for them, both in England and elſewhere; and many of their bloudy Enemies ſuffered to be releaſed out of priſon.</p>
+            <p>Then ſhould the head of no Injuſtice ſtand upon any ſhoulders, ſince for that the late King loſt his. Then ſhould perjuries, forgeries, and briberies, which are grown to a great head amongſt us be puniſh<g ref="char:EOLhyphen"/>ed, though the Committee do little or nothing therein. Nor ſhould Death be inflicted for a trifle of five ſhillings, (a thing called Felony) whileſt vaſt ſums are taken from the Commonwealth, without any ac<g ref="char:EOLhyphen"/>compt, by Committee-men, and others. Then ſhould the poor be pro<g ref="char:EOLhyphen"/>vided for, both in Gaols, and without, at leaſt by their own; and poor
+<pb n="4" facs="tcp:115926:3"/>Sea-men invited home, by certainty of pay, and aſſurance of a compe<g ref="char:EOLhyphen"/>tent ſhare of the prize-goods, and liberty to adventure five pounds a man, or more, according to their place and quality, in every Merchants ſhip, as in Queen <hi>Elizabeths</hi> days: this will endear them unto the States; and Lenity doth break more hearts then Sequeſtration. Then ſhould Timber, the ſinews of war by Sea, be planted and preſerved; and not ſold to the Hollanders. Then ſhould Eſquire <hi>Elſliott,</hi> and <hi>Edward Jinks</hi> not be ſtifled in that infamous priſon of Newgate; but be inforced to make good their Charges againſt the ſeveral Members, or be puniſhed ſeverely.</p>
+            <p>My Lord, many of us were of this army under your own command, we fought for our liberties, our bloud, &amp; our eſtates are in it, and we are witneſſes that your Excellency promiſed it unto us, and ſo did the Parli<g ref="char:EOLhyphen"/>ament; what can be anſwered in this caſe? for when you wanted pow<g ref="char:EOLhyphen"/>er, our lives was not dear to us, and now you have power, our lives and liberties ought to be dear to you and them, and not ſuffer us to ſtarve through oppreſſion; is not this the time? the work is great; the children of Anack are mighty men, and have Cities walled high; yet fear them not; for the good land is before your Excellency; and if you will not enter in before us, but murmure, your Carcaſſes may be ſlain in the wil<g ref="char:EOLhyphen"/>derneſſe, or you may be ſtung with fiery Serpents; and yet deliverance ſhall come, for the ſpirits anointing cauſed the people to deſtroy the yoke of the late King; and God hath promiſed, hat the feet of the poor, and the ſteps of the needy, ſhall tread down them that dwell on high; <hi>Eſa.</hi> 10.27. <hi>Eſa.</hi> 26.5.6. would you have us think that God ſeeth not injuſtice in a Commonwealth as well as in a Kingly Government, or that our freedome conſiſteth in having the name of priviledge of Parlia<g ref="char:EOLhyphen"/>ment, inſtead of Kingly Prerogative, or <hi>The Keepers of the Liberties of England,</hi> inſtead of <hi>Charls by the Grace of God,</hi> &amp;c. notwithſtand<g ref="char:EOLhyphen"/>ing the ſame injuſtice and arbitrary power remaineth, nay and is much increaſed; for ſhame up and be doing; we beſeech you conſider what will becom of your poſterities too, as well as ours; let no man take your honour from you, nor delude you, and lay your honour in the duſt: for we profeſſe to all the world, that whatſoever injuſtice, whatever we want of perfect freedom, and liberty, what bloud is not expiated, what treaſure is miſpent, all our complaints are before your Excellency, and the army, and muſt remain with you, and be charged upon you; therefore if you will riſe like a mighty Giant refreſhed with wine, and ſcorn a gift that blinds the eyes of the wiſe, and pervert the righteous in judgment,
+<pb n="5" facs="tcp:115926:3"/>and go forth in the ſtrength of our God, then ſhal the work of the Lord proſper in your hands. But if you will not, but ſay there is a Lion in the way, and forget your vows and promiſes, and lead us back again into Egypt; and ſay, the ſame old Kingly ſpirit in a new name ſhall reign; we ſhall be inforced to ceaſe from your Excellency, and lift up our eys to the hills, and expect deliverance ſome other way. O how can we ex<g ref="char:EOLhyphen"/>pect to have injuſtice in ſuperiors puniſhed ſpeedily, and not left to ſuc<g ref="char:EOLhyphen"/>ceeding Parliaments, and men ſtarve the mean while in priſon; when e<g ref="char:EOLhyphen"/>very man is left to act arbitrarily, and men accuſed of Treaſon, ſuffered to ſit in the houſe? nay ſome of us, will with our lives make good, that there be ſome in the houſe that are utter enemies to the peace and ſafe<g ref="char:EOLhyphen"/>ty of the Nation. O how ſhall we be able to diſcern our friends from our foes in the houſe, except the faithfull Members do declare their pro<g ref="char:EOLhyphen"/>teſt to the people whom they ſerve, againſt all thoſe that act contrary to their truſt, oppugning the law of God, the law of the land, and the law of nature; for we humbly conceive this is the ready way to eaſe them and you of your endleſſe trouble, and ſecure the Commonwealth from future dangers and miſeries; for do we not ſee with what extream difficulty, you produce any thing that looketh like juſtice? and how can we expect that the grievances of the people ſhould be redreſſed, when an eminent Member of the Houſe and Councel of State, profeſſed he would oppoſe the diſcovery of the grievances, both in houſe and Coun<g ref="char:EOLhyphen"/>cel of State, when there was offered four millions to have it done? as wit<g ref="char:EOLhyphen"/>neſſe the inſuing ingagement.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>To the Right Honourable the Councel of State.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>VVE whoſe names are under written, out of a deſire to diſcharge a good conſcience, and zeal to promote the good and well-fare of this our native country, do hereby ingage our lives and fortunes; to produce and proſecute ſuch diſcoveries of notorious treacheries, &amp; con<g ref="char:EOLhyphen"/>cealment of publick treaſures and lands, as will probably raiſe, at the leaſt four millions of treaſure, for the uſe of the State; which we conceive may be for the conſtant pay of the army, and prevent the ſelling of thsir arrears at under rates, and to eaſe the grieved and diſcontented peo<g ref="char:EOLhyphen"/>ple of this Nation, from all aſseſsments whatſoever, for the ſpace of four years next enſuing; provided, that this honourable Councel be pleaſed forthwith to draw up the form of an Act, to authorize Commiſſioners
+<pb n="6" facs="tcp:115926:4"/>for the examination of all manner of grievances whatſoever, and all di<g ref="char:EOLhyphen"/>rect or indirect concealment of publick treaſure, and preſent the ſame to the Parliament for the ſpeedy paſſing thereof, before any further ad<g ref="char:EOLhyphen"/>journment or any Act of general pardon be concluded; and likewiſe that this honourable Councel would be pleaſed to afford from time to time an effectuall aſſiſtance in the proſecution of the aforeſaid diſcover<g ref="char:EOLhyphen"/>ies, for the good of the Cmmonwealth, the better to indear the affecti<g ref="char:EOLhyphen"/>ons of the people to the Parliament, Army, Navy, and this honoura<g ref="char:EOLhyphen"/>ble Councel, in the initiation of this preſent government.</p>
+                  <closer>
+                     <dateline>Given under our hands <date>this 4th of September, 1649.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>William Pendred,</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Bernard,</hi>
+                           </item>
+                           <item>
+                              <hi>Ieffery Corbet,</hi>
+                           </item>
+                           <item>
+                              <hi>Devereux Gardioner,</hi>
+                           </item>
+                           <item>
+                              <hi>William Hill,</hi>
+                           </item>
+                           <item>
+                              <hi>William Bernard.</hi>
+                           </item>
+                           <item>
+                              <hi>William Reex,</hi>
+                           </item>
+                           <item>
+                              <hi>Miles Arendale.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Coalman.</hi>
+                           </item>
+                           <item>
+                              <hi>William Harriſon,</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Mallow,</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Can any men be ſo void of reaſon, as to perſwade us that they can be true to their truſt, who act ſo contrary to the ſafety of the nation, and refuſe ſuch an offer as this? doth it not declare that they are guilty per<g ref="char:EOLhyphen"/>ſons? we beſeech you Gentlemen conſider, that God will not be mock<g ref="char:EOLhyphen"/>ed (<hi>Galat.</hi> 6.7.) though you and the corrupt members of the houſe, have very ſufficiently mocked this nation for divers years paſt, feeding us with ſhals and ſhals; but truly we never knew good words fill the bellies of the hungry, nor cloath the backs of the naked. Oh how have we been betrayed both by ſea and land! and when men ſhun the light, it is be<g ref="char:EOLhyphen"/>cauſe their deeds are evill, <hi>Iohn</hi> 3.19, 20, 21. and hence it is, that ſo ma<g ref="char:EOLhyphen"/>ny do oppoſe a new Repreſentative; how can any rational man think it ſafe to confide in ſuch unfaithfull truſtees, who neither diſcharge their truſt repoſed in them, nor make conſcience of their oaths nor promiſes, in paying their debts; but let the moſt faithfull friends of the Common-wealth, lie ſtarving in all corners of the Common-wealth? and yet they can take care to provide for our enemies, by an Act of free pardon. O how do theſe, and a multitude of other actions declare their unfaith<g ref="char:EOLhyphen"/>fulneſs! certainly they are not the men whom we choſe; if they be we were deceived in them, and will no longer truſt in them, but will have all Traitors, Cheaters, Arbitrary actors, and betrayers of their truſt, cal<g ref="char:EOLhyphen"/>led to a ſtrict account, that ſo many induſtrious families may not ſtarve
+<pb n="8" facs="tcp:115926:4"/>through oppreſſion; the Prophet telleth us, that Chriſt is juſt, <hi>Zacha<g ref="char:EOLhyphen"/>ry</hi> 9.9. therefore we will never own any other King but him, he ſhall be our King and our Law-giver, and at his feet will we ſacrifice our lives, and all that is dear unto us, <hi>Eſay</hi> 33.22. <hi>Iames</hi> 4.12. therefore all thoſe that are for Chriſt and juſtice, let them declare themſelves, that we may know and own them, and then we ſhal adhere to them even from Dan to Beer-ſheba; for we are reſolved, that all thoſe that have been faithfull in the Houſe, Army, Navy, and Commonwealth, by owning of Chriſt, and ſtanding for Juſtice, ſhall be had in ſingular honour, and ſhall ſhine like ſtars in the firmament; and thoſe that ſtand for Anti<g ref="char:EOLhyphen"/>chriſt, in the oppoſing juſtice, or oppreſſing the people, ſhall like clods of dirt, or unſavory ſalt, be thrown to the dung-hill, and there remain, <hi>Matth.</hi> 5.13. for we do clearly ſee that we are ſold to the bloudy But<g ref="char:EOLhyphen"/>chers of Rome, but we are reſolved we wil not be delivered up to them.</p>
+            <p>Therefore we beſeech you, before it be too late, to go with us to the Houſe door, and not depart thence, till we have an Act for a Commit<g ref="char:EOLhyphen"/>tee, to diſcover and redreſs the grievances of the Common-wealth, that ſo thoſe that have betrayed their truſt, and ſold us to Antichriſt, may reap the fruit of their treachery; for theſe men, as they ſtand cor<g ref="char:EOLhyphen"/>rupted, will never let us have a new Repreſentative: How many moneths, nay, years we think, have they ſpent in contriving a way for a new Repreſentative, and will not do it? But we doubt not, but a Committee of upright unbiaſſed men, will quickly find out the <hi>Achans,</hi> and the execrable things; which will ſo unite us together in love, and raiſe ſuch a vaſt Bank of treaſure, and perpetual revenue, as will make this Nation a terrour to the whole earth; and then our Truſtees may carry on the work of the Nation with eaſe and chearfulneſs. And we do heartily beſeech you, as you tender the ſafety of your own perſons, families, eſtates, and this whole Common-wealth, that you do forth<g ref="char:EOLhyphen"/>with call a General Councel, that ſo we may not be betrayed in our diſcoveries, nor deſtroyed for our fidelity to our Countrey: And then we ſhall diſcover a moſt dangerous deſign, tending to the deſtruction both of Army, and Common-wealth; For God hath made the hearts of thoſe men fat, and their ears heavy, that they will not hear the crie of the poor, <hi>Eſay</hi> 6.10. Therefore they ſhall cry, and not be heard, <hi>Prov.</hi> 21.13. They are Phyſitians of no value; they will not cure us, but rather make our wounds deeper and wider: But the Sun of Righ<g ref="char:EOLhyphen"/>teouſneſs will ariſe with healing on his wings, <hi>Mal.</hi> 4.2. and all Na<g ref="char:EOLhyphen"/>tions, people, or perſons, that will not ſubmit to his Government, and
+<pb n="8" facs="tcp:115926:5"/>let him rule over them, ſhall be deſtroyed, <hi>Luk.</hi> 19.27. <hi>Eſa.</hi> 60.12. For behold the day commeth that ſhall burn as an Oven, and all the proud, and all that do wickedly ſhall be ſtubble, and the day that commeth ſhall burn them up, ſaith the Lord of Hoſts, that it ſhall leave them neither root nor branch, <hi>Mal.</hi> 4.1.</p>
+            <p>And now my Lord, and Gentlemen all, we do humbly ſpread theſe things before you, conceiving our condition juſt paralel with <hi>Pauls,</hi> when the ſhip was between Sylla and Charibdis; and as we know you in your full condition, ſwimming in proſperity, cannot be without ſtrong temptations; neither can you conceive, that we can be free from the like, and greater; for you know what oppreſſion will make wiſe men do, <hi>Eccleſ.</hi> 7.7. Therefore if we in our ſinking condition ſhall catch at any thing, hoping to be delivered by it, &amp; if it prove to be our deſtruction; we do appeal unto God, Angels and Men, whether you ſhall not anſwer for all the bloud which ſhall be ſpilt upon this ac<g ref="char:EOLhyphen"/>count, or no? For we dare call the moſt High God to record, our onſciences alſo witneſſing with us, that we have nothing in our eye, but the preſerving of this nation from perpetual ſlavery, or from ſuddain de<g ref="char:EOLhyphen"/>ſtruction by unſatiable, bloudy monſters: &amp; ſo we do commit both you, &amp; theſe lines into the hands of that God, who is able to give them ſuch a ſetting on upon your ſpirits, that both ſleep and food ſhal depart from you, until you by joining with us, have put us into a ſafe poſture.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
